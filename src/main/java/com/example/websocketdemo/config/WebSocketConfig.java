@@ -22,7 +22,7 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
         registry.enableSimpleBroker("/topic");
 
 
-        //   Use this for enabling a Full featured broker like RabbitMQ
+        //   Use this for enabling a Full featured broker like
 
         /*
         registry.enableStompBrokerRelay("/topic")
